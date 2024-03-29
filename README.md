@@ -1,8 +1,19 @@
-# React + Vite
+Admin Dashboard Front End Design ---> DixData.
+====================
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Using React Js
+---------------------
 
-Currently, two official plugins are available:
+DEMO ---->
+---------------------
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/thakordixit567/dixadmindashbord/blob/master/src/assets/DemoImg/Screenshot%202024-03-29%20161651.png)
+
+![image](https://github.com/thakordixit567/dixadmindashbord/blob/master/src/assets/DemoImg/Screenshot%202024-03-29%20161709.png)
+
+How to clone this peoject in your machine 
+
+ ```sh
+ cd your peoject name
+git clone link of this peoject
+```
