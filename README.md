@@ -7,6 +7,8 @@ Using React Js
 DEMO ---->
 ---------------------
 
+https://dixadmin.netlify.app/
+
 ![image](https://github.com/thakordixit567/dixadmindashbord/blob/master/src/assets/DemoImg/Screenshot%202024-03-29%20161651.png)
 
 ![image](https://github.com/thakordixit567/dixadmindashbord/blob/master/src/assets/DemoImg/Screenshot%202024-03-29%20161709.png)
